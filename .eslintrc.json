@@ -7,7 +7,7 @@
         "eol-last": "off",
         "comma-dangle": "off",
         "prefer-template": "warn",
-        "linebreak-style": ["error", "unix"],
+        "linebreak-style": ["error", "windows"],
         "indent": ["error", 4],
         "react/jsx-indent": ["error", 4],
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
