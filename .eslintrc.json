@@ -4,6 +4,7 @@
         "browser": true
     },
     "rules": {
+        "radix": "off",
         "eol-last": "off",
         "comma-dangle": "off",
         "prefer-template": "warn",
